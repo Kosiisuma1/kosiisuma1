@@ -1,4 +1,4 @@
-👋 Hi, I'm [Your Name]
+👋 Hi, I'm Isuma Chiemelie Kosi
 🛡️ Cybersecurity & SOC Enthusiast
 
 I’m an IT professional with 2+ years of enterprise L1–L2 support experience, now specializing in Security Operations and Threat Detection. My background in incident management, networking, and system troubleshooting gives me a strong operational foundation for monitoring, analyzing, and responding to security events.
