@@ -7,7 +7,7 @@ I’m actively building hands-on SOC skills and preparing for roles in Security 
 
 🔎 What I’m Currently Building
 
-🖥️ Home SOC Lab (Windows + Kali + Splunk)
+🖥️ Home SOC Lab (Microsoft Azure + KQL + Microsoft Sentinel)
 
 📊 SIEM log collection, correlation & alert creation
 
