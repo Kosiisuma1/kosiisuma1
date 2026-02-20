@@ -3,7 +3,7 @@
 
 I’m an IT professional with 2+ years of enterprise L1–L2 support experience, now specializing in Security Operations and Threat Detection. My background in incident management, networking, and system troubleshooting gives me a strong operational foundation for monitoring, analyzing, and responding to security events.
 
-I’m actively building hands-on SOC skills and preparing for roles in Security Operations.
+Since October 2025 i have been actively building hands-on SOC skills and preparing for roles in Security Operations.
 
 🔎 What I’m Currently Building
 
