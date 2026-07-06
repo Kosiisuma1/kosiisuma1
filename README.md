@@ -1,7 +1,7 @@
 Hi, I'm Isuma Chiemelie Kosi 👋
 
-I'm a Network Operations and Infrastructure professional with over 3 years of experience supporting enterprise banking and telecommunications environments. My expertise includes monitoring, troubleshooting, and maintaining WAN, LAN, MPLS, VPN, and IP networks within 24/7 operations, ensuring network availability and performance.
+I'm a Network Operations and Infrastructure professional with over 3 years of experience supporting enterprise banking and telecommunications environments. At BT Group, I supported Santander UK and Santander US, monitoring, troubleshooting, and maintaining WAN, LAN, MPLS, VPN, and IP network services in a 24/7 operational environment. My experience includes routing and switching, network troubleshooting, incident management, and performance monitoring, helping maintain the availability and reliability of critical enterprise networks.
 
-I have hands-on experience with Cisco routing and switching, OSPF, TCP/IP, Ethernet technologies, incident management, and network troubleshooting. I'm also continuously expanding my skills in network automation (Python & Netmiko) and network security, with a strong focus on building practical, real-world networking solutions.
+I have hands-on experience with Cisco routing and switching, OSPF, TCP/IP, Ethernet technologies, and I'm continuously expanding my skills in network automation (Python & Netmiko) and network security through hands-on learning and practical projects.
 
-I'm passionate about designing reliable network infrastructure, automating repetitive tasks, and continuously learning modern networking technologies.
+I'm passionate about building reliable, scalable networks, improving operational efficiency through automation, and continuously developing my network engineering expertise.
